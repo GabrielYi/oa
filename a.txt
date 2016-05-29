@@ -10,3 +10,4 @@ master update 01
 dev update02
 tui shagqu
 update from annother
+github server
